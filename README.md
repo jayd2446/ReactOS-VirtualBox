@@ -5,3 +5,5 @@
 - Useful for legacy software
 - OVA file less than 200 MB
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+
+![ReactOS](https://github.com/Virtual-Machines/ReactOS-VirtualBox/blob/master/Reactos.png)
